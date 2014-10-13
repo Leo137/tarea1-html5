@@ -1,0 +1,13 @@
+{
+  "libs": [
+  ],
+  "loadEagerly": [
+    "C:/wamp/www/phaser-master/build/phaser.js"
+  ],
+  "plugins": {
+    "requirejs": {
+      "baseURL": "./",
+      "paths": {}
+    }
+  }
+}
